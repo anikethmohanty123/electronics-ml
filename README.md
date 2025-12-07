@@ -1,4 +1,4 @@
-#Electronics ML — Predicting Ratings & Popularity of Amazon Products
+# Electronics ML — Predicting Ratings & Popularity of Amazon Products
 ## End to End Machine Learning Project | Python, Scikit-Learn, Pandas, Matplotlib
 
 ### Overview:
@@ -30,10 +30,12 @@ The project generates several exploratory visualizations:
 Price Distribution
 
 Rating Distribution
-![image_alt](https://github.com/anikethmohanty123/electronics-ml/blob/main/review_count_distribution.png?raw=true)
+![image_alt](https://github.com/anikethmohanty123/electronics-ml/blob/main/rating_distribution.png?raw=true)
 Review Count (Log Scale)
-<img src="visualizations/review_count_distribution.png" width="500">
+![image_alt](https://github.com/anikethmohanty123/electronics-ml/blob/main/review_count_distribution.png?raw=true)
 Price vs Rating
-<img src="visualizations/price_vs_rating.png" width="500">
+![image_alt](https://github.com/anikethmohanty123/electronics-ml/blob/main/price_vs_rating.png?raw=true)
 Popularity Breakdown
-<img src="visualizations/popularity_breakdown.png" width="500">
+![image_alt](https://github.com/anikethmohanty123/electronics-ml/blob/main/popularity_breakdown.png?raw=true)
+Price Distribution
+![image_alot](https://github.com/anikethmohanty123/electronics-ml/blob/main/price_distribution.png?raw=true)
